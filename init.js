@@ -3,6 +3,6 @@ alert('Really Hello');
 
 console.log('happy holidays');
 
-var dayTwo = 110;
+var dayTwo = 110 + "Ordi";
 
 console.dir(dayTwo);
